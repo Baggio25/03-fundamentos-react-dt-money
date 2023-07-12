@@ -13,7 +13,7 @@
       "description": "Dogão",
       "type": "outcome",
       "category": "Alimentação",
-      "price": 14.90,
+      "price": 14.9,
       "createdAt": "2023-07-08T22:19:25.380Z"
     },
     {
@@ -21,8 +21,24 @@
       "description": "Ignite Rocketseat",
       "type": "outcome",
       "category": "Estudo",
-      "price": 1490.90,
+      "price": 1490.9,
       "createdAt": "2023-07-08T22:30:25.380Z"
+    },
+    {
+      "description": "Desenvolvimento de App Java",
+      "category": "Venda",
+      "price": 15000,
+      "type": "income",
+      "createdAt": "2023-07-12T00:05:57.076Z",
+      "id": 4
+    },
+    {
+      "description": "Iogurte",
+      "category": "Alimentação",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2023-07-12T00:38:07.867Z",
+      "id": 5
     }
   ]
 }
